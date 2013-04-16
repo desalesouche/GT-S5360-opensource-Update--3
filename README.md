@@ -1,6 +1,10 @@
 GT-S5360-opensource-Update--3
 =============================
 
+Forked from Gustavo Whitexp - credit to him.
+
+============================================
+
 HOW TO BUILD KERNEL 2.6.35 FOR GT-S5360
 
 1. How to Build
